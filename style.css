@@ -33,7 +33,6 @@
     
 }
 .navbar li a:hover{
-    transition: transform .25s, visibility .25s ease-in;
     color:black;
     font-weight: bold;
     background-color: white;
